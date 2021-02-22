@@ -8,4 +8,5 @@ Scoail Distance calculated based on X and Y distance between objects. Each objec
 4. Take square root of the addition in previous step
 
 Deep Learning Model
-![Deep Learning Model] (model.png)
+
+![Deep Learning Model](model.png)
