@@ -7,6 +7,9 @@ Scoail Distance calculated based on X and Y distance between objects. Each objec
 3. Add both square roots
 4. Take square root of the addition in previous step
 
+In-case of distance violation the violatee's rectangales are colored red.
+
+
 Deep Learning Model
 
 ![Deep Learning Model](model.png)
